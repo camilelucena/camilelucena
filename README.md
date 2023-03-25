@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3> Olá, eu sou a Camile! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3> 
+<h4></h4>  
+    
+<h6> 💫 Estudando programação </h6>
+  
+##
 
-<!--
-**camilelucena/camilelucena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
 
-Here are some ideas to get you started:
+<div>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <i> “If you can dream it, you can do it.” ⭐️</i> <br> <br>
+  
+ 
